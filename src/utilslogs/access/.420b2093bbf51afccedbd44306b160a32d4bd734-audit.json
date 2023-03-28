@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/workspace/new-api/src/utilslogs/access/.420b2093bbf51afccedbd44306b160a32d4bd734-audit.json",
+    "files": [
+        {
+            "date": 1680005566449,
+            "name": "/workspace/new-api/src/utilslogs/access/access-2023-03-28.log",
+            "hash": "8f2b516482431a944bfae95993685e6f9fd998a617ea494fc83f9fb8decb448f"
+        }
+    ],
+    "hashType": "sha256"
+}
